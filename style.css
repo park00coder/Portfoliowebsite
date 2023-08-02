@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  nav {
+    background-color: #444;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin: 0 1rem;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+  }
+  
+  section {
+    padding: 2rem;
+    font-weight: 100;
+  }
+  
+  section h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .project {
+    margin-bottom: 2rem;
+  }
+  
+  .project img {
+    max-width: 50%;
+    max-height: 50%;
+  }
+
+  p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+
+  }
+
+  /* styles.css */
+
+/* ... previous CSS styles ... */
+
+.contact-icons {
+    text-align: center;
+    margin-top: 1rem;
+  }
+  
+  .contact-icons img {
+    width: 1cm;
+    height: 1cm /* You can adjust the size as needed */
+    margin:auto ;
+    padding: 1.5cm;
+  }
+  
+  
+  /* ... more CSS styles if needed ... */
+  
+  
+  /* Add more custom styling as needed */
+  
